@@ -1,0 +1,2 @@
+Ссылка на тест-кейсы и баг-репорты по проекту.
+https://docs.google.com/spreadsheets/d/1DdUIFPeWEiUgQmynD6sF4yrpchKBSjiUuuDK1KKIGRI/edit?usp=sharing
